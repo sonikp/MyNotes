@@ -39,4 +39,6 @@ http://stackoverflow.com/questions/2172916/how-to-use-external-class-files-in-an
 # Eclipse
 Run
 L: F11
-M: <crtl><shift><mac><f11>
+M: crtl + shift + mac + F11
+
+
