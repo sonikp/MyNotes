@@ -1,6 +1,6 @@
 # MyNotes
 
-Git + Homework
+# Git + Homework
 
 1. Create project in GitHub
 2. Create project in eclipse
@@ -35,3 +35,8 @@ I've had a play with Eclipse to work this one out. Give the following a go:
 
 From:
 http://stackoverflow.com/questions/2172916/how-to-use-external-class-files-in-an-eclipse-project
+
+# Eclipse
+Run
+L: F11
+M: <crtl><shift><mac><f11>
