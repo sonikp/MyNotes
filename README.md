@@ -41,5 +41,5 @@ Run
 L: F11
 M: crtl + shift + mac + F11
 
-Menu
+Menu:
 ctrl + space
