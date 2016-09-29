@@ -10,6 +10,9 @@ $ git init
 4. Register new project
 $ git remote add origin https://github.com/sonikp/[reponame].git
 
+4a. Instead of removing and re-adding, you can do this:
+$ git remote set-url origin git://new.url.here
+
 5. Pull down project and info file from server
 $ git pull origin master
 
