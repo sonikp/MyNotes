@@ -25,6 +25,18 @@ $ git commit -a -m “Initial commit"
 8. Move locally committed files to the remote project repo:
 $ git push -u origin --all
 
+# Alternate Git Options
+Pull from repo while ingoring local changes:
+
+1. Fetch all changes:
+$ git fetch --all
+
+2. Register the master:
+$ git reset --hard origin/master
+
+3. Pull update:
+$ git pull
+
 Eclipes import the additional class files for the projects:
 
 I've had a play with Eclipse to work this one out. Give the following a go:
