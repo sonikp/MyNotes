@@ -35,7 +35,7 @@ $ git fetch --all
 $ git reset --hard origin/master
 
 3. Pull update:
-$ git pull
+$ git pull origin master
 
 # Eclipes import the additional class files for the projects:
 
