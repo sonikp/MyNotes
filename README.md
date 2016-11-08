@@ -69,7 +69,7 @@ Updating Java version(Oracle):
 
 3. Check java -version on command line
 
-4. Check java version using echo $JAVA_HOME 
+4. Check java version using:# echo $JAVA_HOME 
 
 5. Update path for java in user's home directory ~/.bash_profile 
 
