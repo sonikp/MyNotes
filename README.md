@@ -58,3 +58,23 @@ M: crtl + shift + mac + F11
 
 Menu:
 ctrl + space
+
+# Java for MAC
+Updating Java version:
+
+1. Download Oracle Java for MAC "jdk-XXX-macosx-x64.dmg"
+
+2. Execute and install file. Installs to /Library/Java/JavaVirtualMachines
+
+3. Check java -version on command line
+
+4. Check java version using echo $JAVA_HOME 
+
+5. Update path for java in user's home directory ~/.bash_profile 
+
+	export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home
+
+6. Update path for java in user's home directory ~/.profile
+
+	export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home
+
