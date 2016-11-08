@@ -60,7 +60,8 @@ Menu:
 ctrl + space
 
 # Java for MAC
-Updating Java version:
+There are two Java source, the MAC one and the Oracle one. It is recommended to use the Oracle one.
+Updating Java version(Oracle):
 
 1. Download Oracle Java for MAC "jdk-XXX-macosx-x64.dmg"
 
