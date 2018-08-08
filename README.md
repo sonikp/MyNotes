@@ -41,6 +41,10 @@ $ git reset --hard origin/master
 3. Pull update:
 $ git pull origin master
 
+4. Remove repository:
+$ git rm -f -r *
+$ rm -rf .git*
+
 # Eclipes import the additional class files for the projects:
 
 I've had a play with Eclipse to work this one out. Give the following a go:
